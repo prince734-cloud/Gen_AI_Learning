@@ -1,0 +1,6 @@
+    HumanMessage(content="Hello, I want to request a refund for my order."),
+    AIMessage(content="Sure, I can help you with that. Could you please provide your order ID?"),
+    HumanMessage(content="My order ID is #ORD12345."),
+    AIMessage(content="Thank you. I have found your order. May I know the reason for the refund?"),
+    HumanMessage(content="The product I received was damaged."),
+    AIMessage(content="I'm sorry about that. Your refund request has been submitted successfully."),
